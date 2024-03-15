@@ -41,3 +41,9 @@ This practice was to explore the differences and learn about the difficult thing
 This practice was made with standAlone components, this mini project don´t handle Modules, However, I saw how to manage it with modules.
 
 my next Angular learning will cover StandAlone with Signals 
+
+¡¡ Visit this project !!
+```
+https://nixonamado.github.io/basicDbzForm/ 
+```
+
